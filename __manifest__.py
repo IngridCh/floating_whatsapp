@@ -39,7 +39,7 @@
     ],
     'assets': {
         'web.assets_frontend': [
-            '/website_floating_whatsapp_icon/static/src/css/website_floating_whatsapp_icon.css',
+            '/floating_whatsapp/static/src/css/website_floating_whatsapp_icon.css',
         ],
     },
     'images': ['static/description/banner.jpg'],
